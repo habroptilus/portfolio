@@ -14,7 +14,7 @@ organizations:
   url: "https://about.yahoo.co.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 大学在学中は数理情報学を専攻し、機械学習理論に関わる研究を行う傍ら、個人開発やインターン、受託開発などで機械学習アルゴリズムの開発経験を積む。2020年3月に東京大学大学院情報理工学系研究科修士課程修了後、ヤフー株式会社に入社し、機械学習エンジニアとして広告配信システム最適化を担当。
+#bio: 大学在学中は数理情報学を専攻し、機械学習理論に関わる研究を行う傍ら、個人開発やインターン、受託開発などで機械学習アルゴリズムの開発経験を積む。2020年3月に東京大学大学院情報理工学系研究科修士課程修#了#後、ヤフー株式会社に入社し、機械学習エンジニアとして広告配信システム最適化を担当。
 
 interests:
 - Ad technologies
@@ -69,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+大学在学中は数理情報学を専攻し、機械学習理論に関わる研究を行う傍ら、個人開発やインターン、受託開発などで機械学習アルゴリズムの開発経験を積む。2020年3月に東京大学大学院情報理工学系研究科修士課程修了後、ヤフー株式会社に入社し、機械学習エンジニアとして広告配信システム最適化を担当。
