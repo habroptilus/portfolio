@@ -23,12 +23,12 @@ interests:
 
 education:
   courses:
-  - course: 数理情報学専攻修士課程
-    institution: 東京大学大学院情報理工学系研究科
-    year: 2020
-  - course: 数理情報工学コース学士課程
-    institution: 東京大学工学部計数工学科
-    year: 2018
+  - course: Master of Information Science and Technology
+    institution: Graduate School of Information Science and Technology, University of Tokyo
+    year: Mar 2020
+  - course: Bachelor of Engineering
+    institution: University of Tokyo
+    year: Mar 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
