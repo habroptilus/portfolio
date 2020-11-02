@@ -14,12 +14,12 @@ organizations:
   url: "https://about.yahoo.co.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: こんにちはぼくどらえもん
+bio: 大学在学中は数理情報学を専攻し、機械学習理論に関わる研究を行う傍ら、個人開発やインターン、受託開発などで機械学習アルゴリズムの開発経験を積む。2020年3月に東京大学大学院情報理工学系研究科修士課程修了後、ヤフー株式会社に入社し、機械学習エンジニアとして広告配信システム最適化を担当。
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ad technologies
+- Recommendation
+- NLP
 
 education:
   courses:
